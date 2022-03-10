@@ -1,0 +1,27 @@
+Missing plot of closed stock price. 
+Missing observations. 
+Missing description for the observations. 
+The observations are not explained by any references or news. 
+No characteristics are identified. 
+The characteristics are not explained. 
+The time series is incorrectly identified as stationary. 
+No reasons are given to explain why it is not stationary. 
+Not enough references or equations are given. 
+No summary of ACF is presented. 
+Insufficient math equations or references to show the calculation steps for ACF. 
+No summary of PACF is presented. 
+Insufficient math equations or references to show the calculation steps for PACF. 
+No PACF plot is presented. 
+No explanation or insights for the PACF plot are given. 
+The lag number is incorrect (should be 1). 
+No explanation for the lag number is given. 
+The training plot is missing. 
+The RMSE is missing. 
+The test plot is missing. 
+The test plot is not explained. 
+No observations are presented. 
+No explanation of the observations. 
+No strengths of AR model are identified. 
+No weaknesses of AR model are identified. 
+No ways to overcome those weaknesses are identified. 
+The ways to overcome these weaknesses are not explained. 

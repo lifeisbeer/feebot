@@ -1,0 +1,27 @@
+Incorrect plot of closed stock price. 
+Incorrect observations. 
+Incorrect description for the observations. 
+The observations are not explained by any references or news. 
+Incorrect characteristics are identified. 
+The characteristics are not explained well. 
+The time series is incorrectly identified as stationary. 
+Incorrect reasons are given to explain why it is not stationary. 
+Not enough references or equations are given. 
+Incorrect summary of ACF. 
+Insufficient math equations or references to show the calculation steps for ACF. 
+Incorrect summary of PACF. 
+Insufficient math equations or references to show the calculation steps for PACF. 
+Incorrect PACF plot. 
+Incorrect explanation or insights for the PACF plot. 
+The lag number is incorrect (should be 1). 
+The reasons for the lag number are incorrect. 
+The training plot is incorrect.
+The RMSE is incorrect.
+The test plot is incorrect.
+The test plot is not correctly explained. 
+Incorrect observations. 
+Incorrect explanations of observations. 
+Incorrect strengths of AR model are identified. 
+Incorrect weaknesses of AR model are identified. 
+Incorrect ways to overcome those weaknesses are identified. 
+The ways to overcome these weaknesses are not explained well. 

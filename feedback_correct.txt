@@ -1,0 +1,27 @@
+Correct plot of closed stock price. 
+Correct observations. 
+Accurate description of the observations. 
+The observations are explained by references or news. 
+The characteristics are identified correctly. 
+The characteristics are also explained well. 
+The time series is correctly identified as not stationary. 
+Correct reasons are given to explain why it is not stationary. 
+Enough references or equations are also given to support this conclusion. 
+Correct summary of ACF. 
+Sufficient math equations or references to show the calculation steps for ACF. 
+Correct summary of PACF. 
+Sufficient math equations or references to show the calculation steps for PACF. 
+Correct PACF plot. 
+Along with good explanation or insights to explain the PACF plot. 
+The lag number is correctly identified as 1. 
+Along with a good explanation why it is 1. 
+The training plot is correct. 
+The RMSE is correct. 
+The test plot is correct. 
+The test plot is explained well. 
+The observations are described correctly. 
+The observations are explained well. 
+Strengths of AR model are identified. 
+Weaknesses of AR model are identified. 
+Ways to overcome those weaknesses are identified. 
+The ways to overcome these weaknesses are explained well. 
